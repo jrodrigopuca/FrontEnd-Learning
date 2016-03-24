@@ -1,0 +1,105 @@
+        body {
+            /*padding-top: 70px;*/
+            background-color: #e3dbdb;
+            background-image: url("http://www.mrwallpaper.com/wallpapers/htc-background.jpg");
+        }
+        
+        .navbar {
+            background-color: rgba(249,249,249,0.95);
+            border-color: #f9f9f9;
+            color: #67536c;
+            font-weight: bold;
+            text-align: center;
+        }
+        
+        .navbar-default .navbar-nav > li > a:focus,
+        .navbar-default .navbar-nav > li > a:hover {
+            background-color: #ffcc00;
+            color: #c83737;
+        }
+        
+        .btn {
+            background-color: #c83737;
+            border: #c83737;
+            color: #fefefe;
+            border-radius: 30px;
+        }
+        
+        .navbar-left {
+            float: left;
+            margin-left: 10px;
+        }
+        
+        .navbar-right {
+            float: right;
+            margin-right: 10px;
+        }
+        
+        figure {
+            background-color: #67536c;
+            color: #fefefe;
+        }
+        
+    
+        
+        #MiNavBar ul li {
+            display: inline-block!important;
+           
+        }
+        
+        .thumbnail {
+            /*margin: 15px;*/
+            padding: 15px;
+        }
+        
+        .thumbnail:hover {
+            background-color: #ffcc00;
+        }
+        
+        .cont-1 {
+            background-color: #c83737;
+            color: #fefefe;
+        }
+        
+        .cont-3 {
+            /*
+            background-image: url("http://www.mrwallpaper.com/wallpapers/htc-background.jpg");
+            background-color: #fefefe;*/
+            background-color: transparent;
+            
+        }
+        
+        .cont-4 {
+           background-color: #e3dbdb;
+            padding: 30px;
+            /*margin: 15px;*/
+        }
+        
+        footer {
+            background-color: darkred;
+            color: #fefefe;
+        }
+        
+        .navbar-toggle {
+            background-color: transparent;
+        }
+.navbar-collapse ul li dropdown form .form-group{
+            border-radius: 80px;
+            width: 100px;       
+     
+}
+
+.dropdown-menu{
+min-width:270px;
+padding: 5px;
+text-align: center;
+
+}
+
+.form-group{
+display:flex;
+}
+
+button, input, optgroup, select, textarea{
+margin: 5px;
+}
